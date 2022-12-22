@@ -4,7 +4,7 @@ below react app is an budget management system where you can define your budget 
 
 below are the screenshots of the app
 
-[![screenshot](screenshot.png)]
+![screenshot](screenshot.png)
 
 to run the application follow below process.
 
